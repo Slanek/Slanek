@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Slanek
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- My resume [Рахманов Никита Андреевич.pdf](https://github.com/Slanek/Slanek/files/7399828/default.pdf)
+- My [resume](https://github.com/Slanek/Slanek/files/7399828/default.pdf)
